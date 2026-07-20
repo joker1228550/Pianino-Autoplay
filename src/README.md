@@ -42,6 +42,8 @@ These issues may lead to the software crashing or the in game character leaving 
 * The software will send keypresses to the game until it completes the sequence or the stop button is pressed.
 This means that if you leave the piano prematurely it WILL continue to send keypresses!
 
+Данные о темпе песен предоставлены [GetSongBPM](https://getsongbpm.com)
+
 Use the software at your own risk.
 
 Copyright © 2016-2017 Matias Jensen
